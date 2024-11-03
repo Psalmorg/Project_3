@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 - For Normal Button
-![](./screenshot.jpg)
+![](https://github.com/Psalmorg/Project_3/blob/main/Screenshot%20(19).png)
 - For Hover Button
-
+![] (https://github.com/Psalmorg/Project_3/blob/main/Screenshot%20(20).png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)

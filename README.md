@@ -31,8 +31,8 @@ Users should be able to:
 ![](https://github.com/Psalmorg/Project_3/blob/main/Screenshot%20(20).png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://psalmorg.github.io/Project_3/)
+- Solution URL: [Solution URL here](https://github.com/Psalmorg/Project_3)
+- Live Site URL: [Live site URL here](https://psalmorg.github.io/Project_3/)
 
 ## My process
 

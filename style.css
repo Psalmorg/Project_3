@@ -41,25 +41,22 @@ p {
     font-size: 14px;
     
 }
-a {
-    text-decoration: none;
-    color: hsl(0, 0%, 100%);
-
-}
  
 
-button {
+.btn {
+    text-decoration: none;
+    color: hsl(0, 0%, 100%);
     display: block;
     margin-top: 1em;
-    margin-left: 1.25em;
+    margin-left: 1em;
     width: 90%;
-    height: 3em;
+    padding:0.5em 0;
     border-radius: 0.5em;
     background-color: hsl(0, 0%, 20%);
     font-weight: 400;
 }
 
-button:hover{
+.btn:hover{
     background-color: hsl(75, 94%, 57%);
 }
 
